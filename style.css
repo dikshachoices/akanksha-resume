@@ -1,0 +1,28 @@
+p {
+    color: rgb(8, 180, 180);
+}
+
+img {
+    width: 284px;
+    height: 400px;
+}
+li {
+    color: red;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+#green {
+    color: green;
+}
+#megenta {
+    color: magenta;
+}
+#orange {
+    color: orange;
+}
